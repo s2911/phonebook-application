@@ -1,0 +1,15 @@
+{
+    "Vishesh Singh": {
+        "first_name": "Vishesh",
+        "last_name": "Singh",
+        "phone_number": "9066564571",
+        "country_code": "+91",
+        "email": "vishesh@gmail.com",
+        "address": "basdih",
+        "pincode": "206789",
+        "district": "deoria",
+        "state": "up",
+        "country": "india",
+        "birthdate": "2002-05-16"
+    }
+}
